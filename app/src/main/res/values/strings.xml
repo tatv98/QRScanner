@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TFF QR Scanner</string>
+    <string name="qr_hint">Đặt mã QR vào khung</string>
+    <string name="title_history">Lịch sử quét</string>
+    <string name="txtShare">Chia sẻ</string>
+    <string name="txtCopy">Sao chép</string>
+    <string name="txtSearch">Tìm kiếm</string>
+</resources>
